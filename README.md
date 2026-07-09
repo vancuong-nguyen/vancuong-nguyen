@@ -1,4 +1,4 @@
-# NVCuong
+# VAN-CUONG NGUYEN
 ## Van-Cuong Nguyen, Ph.D.
 
 Robotics Engineer · Reinforcement Learning · Dexterous Manipulation
