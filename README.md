@@ -10,9 +10,9 @@ Robotics Engineer · Reinforcement Learning · Dexterous Manipulation
 
 | Repo | Description | Highlight |
 |------|-------------|-----------|
-| [dexterous-hand-rl](https://github.com/NVCuong/dexterous-hand-rl) | In-hand cube reorientation — 5 dexterous hands incl. passive/mimic joints | **100% success · 99.95% consecutive** |
-| [robot-arm-manipulation](https://github.com/NVCuong/robot-arm-manipulation) | Reach, push, lift, drawer — 6-DOF collaborative manipulator real hardware deployment | **95.74% push · 1.2cm reach (real)** |
-| [sim-to-sim-transfer](https://github.com/NVCuong/sim-to-sim-transfer) | Isaac Lab → MuJoCo + ROS2 integration pipeline | **4 integration modes completed** |
+| [dexterous-hand-rl](https://github.com/vancuong-nguyen/dexterous-hand-rl) | In-hand cube reorientation — 5 dexterous hands incl. passive/mimic joints | **100% success · 99.95% consecutive** |
+| [robot-arm-manipulation](https://github.com/vancuong-nguyen/robot-arm-manipulation) | Reach, push, lift, drawer — 6-DOF collaborative manipulator real hardware deployment | **95.74% push · 1.2cm reach (real)** |
+| [sim-to-sim-transfer](https://github.com/vancuong-nguyen/sim-to-sim-transfer) | Isaac Lab → MuJoCo + ROS2 integration pipeline | **4 integration modes completed** |
 
 ---
 
